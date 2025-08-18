@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a paragraph. Second sentence.
+Hello. My name is Jahn and I am in the 10th grade. My favorite movie is the new F1 movie. My goal for the school year is to have at least straight B's, but straight A's would be preferred and better.
 
 This a new paragraph
 
