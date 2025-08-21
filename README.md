@@ -14,4 +14,4 @@ Three years ago, I traveled to Europe and visited the United Kingdom, Switzerlan
 
 ## My Collage / Mood Board
 
-![image alt](My Collage (1).png)
+![My Collage](https://github.com/cruzington2121/me-in-markdown/blob/6ab8673cef262c88c30a6f73a26a1a06288ee335/My%20Collage%20(1).png))
