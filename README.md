@@ -8,8 +8,8 @@ This a new paragraph
 
 ## My playlist
 
-[This is my playlist](link)
+[This is my playlist](https://open.spotify.com/playlist/055LDs0LwpgNeMI853TwUa?si=000fdc4f3e54474e)
 
 ## My Collage / Mood Board
 
-![What the image is](name of image)
+![image alt](https://github.com/cruzington2121/me-in-markdown/blob/ce5adc9ef1b375590d4ac3877890758a124f34da/My%20Collage.png)
